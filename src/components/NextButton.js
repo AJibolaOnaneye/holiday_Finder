@@ -1,6 +1,5 @@
 import React from "react";
 import "bootstrap";
-import $ from "jquery";
 
 const NextButton = (props) => {
 

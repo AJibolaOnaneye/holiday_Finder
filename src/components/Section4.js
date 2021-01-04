@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import CarouselStack1 from "./CarouselStack1";
 
 import "bootstrap";
-import $ from "jquery";
+
 
 const Section4 = () => {
   // $(".carousel").carousel({
